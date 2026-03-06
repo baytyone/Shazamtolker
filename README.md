@@ -1,7 +1,6 @@
 # Shazamtolker
 -
-go \ 
-to the lab
+go\to the lab
 =
 be <br> dolaga
 *Amgmercedes*
