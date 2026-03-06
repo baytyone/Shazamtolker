@@ -27,3 +27,6 @@ _
 + pervii
 + vtorii
 + tretii
+- [x] yes
+- [ ] no
+- [x] ABV
