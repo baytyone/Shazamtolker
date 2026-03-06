@@ -31,4 +31,8 @@ _
 - [ ] no
 - [x] ABV
 
-1. 1. 2. 4. 
+1. 2. 4.
+  3. 1. 6.
+
+-
+![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
