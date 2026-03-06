@@ -14,3 +14,12 @@ _
 > Тем ниже приоры!
 -
 <u>ergeg</u>
+
+1. rege
+2. trh
+7. htrh\
+8. 4
+9. th
+4. ergerg
+5. ergerg
+10. ergerg
