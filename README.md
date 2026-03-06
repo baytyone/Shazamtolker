@@ -1,2 +1,10 @@
 # Shazamtolker
-<3 poshl
+-
+go \ to the lab
+=
+be <br> dolaga
+*Amgmercedes*
+**timohakartoha**
+***www***
+  
+  
